@@ -14,9 +14,9 @@
 
 ## 🧑‍💻 About Me
 
-🎓 I'm currently pursuing **B.Tech in Computer Science (Data Science)**  
+🎓 Recently completed B.Tech in Computer Science (Data Science)**  
 📍 Based in Greater Noida, India  
-🔍 Looking for full-time roles in **Business/Data Analytics**  
+🔍 Looking for full-time roles in **Java Developer**  
 💬 Passionate about problem-solving, data visualization & storytelling  
 🧠 Always learning and improving my skill set
 
